@@ -87,6 +87,7 @@ Sin embargo, los resultados evidencian una capacidad predictiva limitada, sugiri
 
 ## Estructura del Repositorio
 
+```text
 Retail-Sales-Classification
 │
 ├── data
@@ -105,7 +106,7 @@ Retail-Sales-Classification
 │
 ├── README.md
 └── .gitignore
-
+```
 ---
 ### data
 
