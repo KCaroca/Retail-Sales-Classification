@@ -183,3 +183,6 @@ Karla Caroca Henríquez
 ## Licencia
 
 Proyecto desarrollado con fines académicos.
+
+---
+Versión final entregada para evaluación académica.
